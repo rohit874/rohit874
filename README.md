@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohit Kumar
 - 👀 I’m interested in Full Stak Development with Javascript, React, NodeJs, PHP, MySQL, MongoDB;
-- 🌱 I’m currently learning React and NodeJs;
+- 🌱 I’m currently learning React and NodeJs, Express;
 - 📫 How to reach me -> Linkedin : https://www.linkedin.com/in/rohit-kumar3/
 
 <!---
